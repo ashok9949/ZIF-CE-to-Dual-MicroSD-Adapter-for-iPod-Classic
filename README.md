@@ -1,3 +1,4 @@
+![WhatsApp Image 2025-07-06 at 12 34 58_6210d728](https://github.com/user-attachments/assets/1b8348b0-c33f-45d1-b02e-838d8e1b2036)
 # ZIF-CE-to-Dual-MicroSD-Adapter-for-iPod-Classic
 
 Components Overview:
